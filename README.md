@@ -9,6 +9,7 @@
 
 ## Status
 ![Leo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoGotardo&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGotardo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies
 <div style = "display: inline_block"><br/>
@@ -26,5 +27,3 @@
     <img align = "center" alt = "HTReactML5" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF" />
     <img align = "center" alt = "MySQL" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   </div><br>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGotardo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
