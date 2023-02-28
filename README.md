@@ -1,4 +1,4 @@
-# Hello i'm Leo Gotardo 😊
+<center># Hello i'm Leo Gotardo 😊</center>
 
 ## Social Midias
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:"leonardo.gotardo2@gmail.com")
