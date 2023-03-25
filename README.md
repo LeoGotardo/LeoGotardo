@@ -1,4 +1,4 @@
-### Hello, i'm Leonardo Gotardo.
+### Hello, i'm Leonardo Gotardo (18y).
     Hi there, welcome to my github! I'm trying to become a fullstack dev, but for now i just want to make a better world coding 
     (cuz i really love this).
 
