@@ -1,6 +1,6 @@
-<div text-align:center>
+<p align = "center">
     <h1>Hello, i'm Leo Gotardo 😊</h1>
-</div>
+</p>
 
 ## Social Midias
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:"leonardo.gotardo2@gmail.com")
