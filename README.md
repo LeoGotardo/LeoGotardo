@@ -7,7 +7,6 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5543988177963)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 [![StackOverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/21212451/leo-gotardo)
-[![Reddit](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/Impressive-Soup2586)
 
 ## Status
 ![Leo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoGotardo&show_icons=true&theme=midnight-purple)
