@@ -10,6 +10,12 @@
 
 ###
 
+<div align="center">
+  <img height="210" src="https://i.pinimg.com/originals/5a/aa/70/5aaa70a5ef1cc6cafddc5ed78a34f5a2.gif"  />
+</div>
+
+###
+
 <br clear="both">
 
 <p align="left">Technologies:</p>
@@ -93,11 +99,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/LeoGotardo/LeoGotardo/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="210" src="https://i.pinimg.com/originals/5a/aa/70/5aaa70a5ef1cc6cafddc5ed78a34f5a2.gif"  />
-</div>
 
 ###
