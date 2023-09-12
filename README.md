@@ -102,3 +102,4 @@
 <img src="https://raw.githubusercontent.com/LeoGotardo/LeoGotardo/output/snake.svg" alt="Snake animation" />
 
 ###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=deoil3aa7z13qcbz0rmvp34j3&unique={true|1|on|yes})
