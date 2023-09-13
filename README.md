@@ -99,6 +99,7 @@
 
 ###
 
+<div align="center">
 <img scr="https://raw.guthubusercontent.com/LeoGotardo/Leogotardo/output/snake.svg" alt="snake commit">
-
+</div>
 ###
