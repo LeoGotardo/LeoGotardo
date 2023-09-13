@@ -98,5 +98,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/LeoGotardo/LeoGotardo/output/snake.svg" alt="Snake animation" />
