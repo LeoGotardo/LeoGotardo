@@ -3,8 +3,6 @@
     <h1> Hello, i'm Leonardo Gotardo (19y).</h1>
 </div>
 
-
-
 <div id="resume" align=center>
     <br clear="both">
     <p>Hi there, welcome to my github! I'm a brazillian dev and am trying to become a fullstack dev, but for now i just want to make a better world coding.<br>(cuz i really love this)<br>✓ = working!</p>
@@ -52,7 +50,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
 
-##
+#
 
 <div class="SocialMidias" align=center>
     <br clear="both">
@@ -68,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="48" height="28" alt="tryhackme logo"  />
 </div>
 
-##
+#
 
 <div class="statusitle" align=center>
     <br clear="both">
