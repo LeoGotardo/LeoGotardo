@@ -50,7 +50,7 @@
     <br clear="both">
     <h3>Social Midias:</h3>
     <br clear="both">
-    <a href='discordapp.com/users/1133806061426577438'>
+    <a href='https://discordapp.com/users/1133806061426577438'>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="28" alt="discord logo"  />
     </a>
     <a href='mailto:leonardo.gotardo2@gmail.com'>
