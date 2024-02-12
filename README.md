@@ -33,8 +33,6 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" height="30" alt="lua logo"  />
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
@@ -52,14 +50,24 @@
     <br clear="both">
     <h3>Social Midias:</h3>
     <br clear="both">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="48" height="28" alt="twitch logo"  />
+    <a href='discordapp.com/users/1133806061426577438'>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="28" alt="discord logo"  />
+    </a>
+    <a href='mailto:leonardo.gotardo2@gmail.com'>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="28" alt="gmail logo"  />
+    </a>
+    <a href='https://www.linkedin.com/in/leonardo-gotardo/'>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="28" alt="linkedin logo"  />
+    </a>
+    <a href='https://stackoverflow.com/users/21212451/leo-gotardo'>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="48" height="28" alt="stackoverflow logo"  />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="48" height="28" alt="telegram logo"  />
+    </a>
+    <a href='https://api.whatsapp.com/send?phone=5543988177963&text=Hi%20i%20see%20your%20github%20profile.'>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" height="28" alt="whatsapp logo"  />
+    </a>
+    <a href='https://tryhackme.com/p/LeoGotardo'>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="48" height="28" alt="tryhackme logo"  />
+    </a>
 </div>
 
 #
