@@ -71,7 +71,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="discordapp.com/users/1025506598031982722" target="_blank">
+  <a href="https://discord.com/users/1025506598031982722" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="24" alt="discord logo"  />
   </a>
   <a href="mailto:leonardo.gotardo2@gmail.com" target="_blank">
