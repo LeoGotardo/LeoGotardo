@@ -10,12 +10,6 @@
 
 ###
 
-<div align="center">
-  <img height="210" src="https://media.tenor.com/zqABGVPLS-UAAAAC/shescool.gif"  />
-</div>
-
-###
-
 <br clear="both">
 
 <h2 align="left">About me:</h2>
@@ -110,3 +104,7 @@
 <img src="https://raw.githubusercontent.com/LeoGotardo/LeoGotardo/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img height="210" src="https://media.tenor.com/zqABGVPLS-UAAAAC/shescool.gif"  />
+</div>
