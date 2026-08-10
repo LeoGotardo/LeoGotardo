@@ -1,9 +1,5 @@
 # leogotardo
 
-> Recruiter-friendly proof and contact path.
-
-**Theme:** Neon · **Style:** Detailed · **Agent:** Full-Stack Engineer
-
 ## Header
 Hi, I'm **leogotardo**. This README is tuned for **get hired** with a Neon visual system.
 <p align="center">
